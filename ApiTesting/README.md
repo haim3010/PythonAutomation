@@ -21,6 +21,10 @@ Run server.py
 ```bash
 $ python server.py
 ```
+### How to test 
+
+pip install -r requirements_dev.txt pytest tests
+
 ### Using Docker
 Change to the repository directory
 ```bash
