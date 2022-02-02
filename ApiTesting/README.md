@@ -23,7 +23,9 @@ $ python server.py
 ```
 ### How to test 
 
-pip install -r requirements_dev.txt pytest tests
+"adding test_api.py"
+pip install -r requirements.txt pytest tests
+pytest test_api.py
 
 ### Using Docker
 Change to the repository directory
