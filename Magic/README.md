@@ -6,4 +6,4 @@
 
 # How to test
 * pip install -r requirements_dev.txt pytest tests
-* pytest run test_magicList.py
+* pytest test_magicList.py
