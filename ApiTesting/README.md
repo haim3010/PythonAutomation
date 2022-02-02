@@ -21,9 +21,8 @@ Run server.py
 ```bash
 $ python server.py
 ```
-### How to test 
+## How to test 
 
-"adding test_api.py"
 pip install -r requirements.txt pytest tests
 pytest test_api.py
 
